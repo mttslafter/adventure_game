@@ -22,10 +22,6 @@ def Check_backpack():
     print(items)
 
 
-def Not_a_choice():
-    print_pause("The universe does not understand.")
-
-
 def intro():
     print_pause("Hello adventurer! Welcome to Blergenspoop!")
     print_pause("You've been hired to find and defeat the "
